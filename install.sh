@@ -32,7 +32,6 @@ flatpaklist=(
   io.github.mimbrero.WhatsAppDesktop
   com.anydesk.Anydesk
   com.google.AndroidStudio
-  io.dbeaver.DBeaverCommunity
   rest.insomnia.Insomnia
   io.github.Figma_Linux.figma_linux
   com.jgraph.drawio.desktop
